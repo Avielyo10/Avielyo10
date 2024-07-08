@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; B.Sc in Computer Science.
+- 🎓 &nbsp; M.Sc in Computer Science.
 - 💼 &nbsp; Software Engineer, Red Hat.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Computer Vision.
 
